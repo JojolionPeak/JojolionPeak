@@ -4,9 +4,9 @@
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
 - Born in Brooklyn, NY → Raised in Brownsville → Currently still living in Brownsville.
 - Outside of work I like to game, and listen to music.
-- Let's connect via email: JohnAnBer@gmail.com
-- LinkedIn: www.linkedin.com/in/jonathan-bernal04
-- Personal Portfolio: https://jojolionpeak.github.io
+- 📥Let's connect via email: JohnAnBer@gmail.com
+- 📖LinkedIn: www.linkedin.com/in/jonathan-bernal04
+- 💼Personal Portfolio: https://jojolionpeak.github.io
 
 ## Tech Stack:
 
