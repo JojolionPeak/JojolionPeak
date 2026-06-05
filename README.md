@@ -10,10 +10,20 @@
 
 ### Languages
 - JavaScript
+- HTML5
+- CSS3
+- SQL
 
 ### Frameworks & Libraries
 - Node.js
+- React
+- Express
+- Jest
 
 ### Tools
 - Git
 - GitHub
+- PostGreSQL
+- Vite
+- REST APIs
+
